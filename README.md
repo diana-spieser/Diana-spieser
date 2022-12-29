@@ -1,4 +1,4 @@
-![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://www.canva.com/design/DAFWJpiktMs/yKCpD22VTDQtxB2jtwvqiQ/edit?utm_content=DAFWJpiktMs&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton)
+![Black   White Modern Minimalist Data Analyst LinkedIn Banner](https://www.canva.com/design/DAFWJn3gbgc/SGRyNBKoHwlPmzoHpHp0IQ/view?utm_content=DAFWJn3gbgc&utm_campaign=designshare&utm_medium=link&utm_source=publishsharelink)
 <h3 align="center">
 Hi there, I'm Diana</a> 👋
 </h3>
