@@ -1,4 +1,4 @@
-<img src="https://github.com/diana-spieser/diana-spieser/blob/main/banner-profile-ds.png" alt="banne">
+<img src="https://github.com/diana-spieser/diana-spieser/blob/main/banner-pic-ok.png" alt="banne">
 <h3 align="center">
 Hi there, I'm Diana ! </a> 👋
 </h3>
@@ -14,7 +14,7 @@ I'm a Junior Full-Stack Web Developer 💻
 - My landing page (Ruby on rails): (link is comming soon)
 - The portfolio of an HR consultant Freelance
 ## 🌱 I'm currently learning
-- Solidity
+- My focus now is to practice and achieve new skills in Rails, CSS & JS by working on diverse presonal projects.
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
