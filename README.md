@@ -1,16 +1,17 @@
+<img src="https://github.com/diana-spieser/diana-spieser/blob/main/banner-profile-ds.png" alt="banne">
 <h3 align="center">
-Hi there, I'm Diana</a> 👋
+Hi there, I'm Diana ! </a> 👋
 </h3>
 <h2 align="center">
 I'm a Junior Full-Stack Web Developer 💻 
-I have just finished A 9 weeks intensive bootcamp @Le wagon Nice!
+
 </h2> 
 
 ### 🤝 Connect with me:
-<a href="https://www.linkedin.com/in/diana-spieser/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬 If you have any question/feedback, please do not hesitate to reach out to me!
+<a href="https://www.linkedin.com/in/diana-spieser/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬I have just finished A 9 weeks intensive bootcamp @Le wagon Nice! I'm currently looking for my first job as web developer, I'm so excited and motivated to show the world what I have learned and to learn a tons of new things from this passionating world that now I belong to! 
 ## 🔭 I'm currently working on
-- A handmade jelwery online store
-- My landing page (Ruby on rails)
+- A handmade jelwery online store: https://joanabossajewelry.herokuapp.com/
+- My landing page (Ruby on rails): (link is comming soon)
 - The portfolio of an HR consultant Freelance
 ## 🌱 I'm currently learning
 - Solidity
