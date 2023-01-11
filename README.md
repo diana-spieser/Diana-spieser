@@ -1,4 +1,4 @@
-<img src="https://github.com/diana-spieser/diana-spieser/blob/main/banner-pic-ok.png" alt="banne">
+<img src="https://github.com/diana-spieser/diana-spieser/blob/main/ba.png" alt="banner">
 <h3 align="center">
 Hi there, I'm Diana ! </a> 👋
 </h3>
