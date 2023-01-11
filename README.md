@@ -11,8 +11,8 @@ I'm a Junior Full-Stack Web Developer 💻
 <a href="https://www.linkedin.com/in/diana-spieser/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬I have just finished A 9 weeks intensive bootcamp @Le wagon Nice! I'm currently looking for my first job as web developer, I'm so excited and motivated to show the world what I have learned and to learn a tons of new things from this passionating world that now I belong to! 
 ## 🔭 I'm currently working on
 - A handmade jelwery online store: https://joanabossajewelry.herokuapp.com/
-- My landing page (Ruby on rails): (link is comming soon)
-- The portfolio of an HR consultant Freelance
+- My portfolio (Ruby on rails): https://www.diana-spieser.fr/
+- The portfolio of an HR consultant Freelance (a link is comming soon)
 ## 🌱 I'm currently learning
 - My focus now is to practice and achieve new skills in Rails, CSS & JS by working on diverse presonal projects.
 ## 💼 Technical Skills
