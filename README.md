@@ -12,7 +12,7 @@ I'm a Junior Full-Stack Web Developer 💻
 ## 🔭 I'm currently working on
 - A handmade jelwery online store: https://www.joanabossajewelry.com/
 - My portfolio (Ruby on rails): https://www.diana-spieser.fr/
-- The portfolio of an HR consultant Freelance (a link is comming soon)
+- The portfolio of an HR consultant https://www.evgenia-manolova.com/
 ## 🌱 I'm currently learning
 - My focus now is to practice and achieve new skills in Rails, CSS & JS by working on diverse presonal projects.
 ## 💼 Technical Skills
