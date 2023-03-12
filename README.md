@@ -14,7 +14,8 @@ I'm a Junior Full-Stack Web Developer 💻
 - My portfolio (Ruby on rails): https://www.diana-spieser.fr/
 - The portfolio of an HR consultant https://www.evgenia-manolova.com/
 ## 🌱 I'm currently learning
-- My focus now is to practice and achieve new skills in Rails, CSS & JS by working on diverse presonal projects.
+- My focus now is to practice in Rails, CSS & JS by working on diverse presonal projects.
+- I'm lerning React & Javascript with Traversy media which and I can say that Brad Traversy is just the best teacher! 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
 ![](https://img.shields.io/badge/Code-Ruby-informational?style=flat&logo=Ruby&color=CC342D)
