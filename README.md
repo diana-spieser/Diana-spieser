@@ -13,6 +13,7 @@ I'm a Junior Full-Stack Web Developer 💻
 - A handmade jelwery online store: https://www.joanabossajewelry.com/
 - My portfolio (Ruby on rails): https://www.diana-spieser.fr/
 - The portfolio of an HR consultant https://www.evgenia-manolova.com/
+- News website: https://www.ds-news.online/
 ## 🌱 I'm currently learning
 - My focus now is to practice in Rails, CSS & JS by working on diverse presonal projects.
 - I'm lerning React & Javascript with Traversy media and I can say that Brad Traversy is just the best teacher! 
