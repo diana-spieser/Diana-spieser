@@ -1,4 +1,5 @@
-<img src="https://github.com/diana-spieser/diana-spieser/blob/main/1.png" alt="banner">
+<img src="https://github.com/diana-spieser/diana-spieser/main/header.png" alt="banner">
+
 <h3 align="center">
 Hi there, I'm Diana ! </a> 👋
 </h3>
@@ -11,7 +12,7 @@ I'm a Junior Full-Stack Web Developer 💻
 <a href="https://www.linkedin.com/in/diana-spieser/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬I have just finished A 9 weeks intensive bootcamp @Le wagon Nice! I'm currently looking for my first job as web developer, I'm so excited and motivated to show the world what I have learned and to learn a tons of new things from this passionating world that now I belong to! 
 ## 🔭 I'm currently working on
 - A handmade jelwery online store: https://www.joanabossajewelry.com/
-- My portfolio (Ruby on rails): https://www.diana-spieser.fr/
+- My portfolio: https://www.diana-spieser.com/
 - The portfolio of an HR consultant https://www.evgenia-manolova.com/
 - News website: https://www.ds-news.online/
 ## 🌱 I'm currently learning
