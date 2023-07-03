@@ -1,4 +1,4 @@
-<img src="https://github.com/diana-spieser/diana-spieser/blob/main/github-banner.png" alt="banner">
+<img src="https://github.com/diana-spieser/diana-spieser/blob/main/header.png" alt="banner">
 
 <h3 align="center">
 Hi there, I'm Diana ! </a> 👋
@@ -11,12 +11,9 @@ I'm a Junior Full-Stack Web Developer 💻
 ### 🤝 Connect with me:
 <a href="https://www.linkedin.com/in/diana-spieser/"><img align="left" src="https://raw.githubusercontent.com/yushi1007/yushi1007/main/images/linkedin.svg" alt="Yu Shi | LinkedIn" width="21px"/></a> 💬I have just finished A 9 weeks intensive bootcamp @Le wagon Nice! I'm currently looking for my first job as web developer, I'm so excited and motivated to show the world what I have learned and to learn a tons of new things from this passionating world that now I belong to! 
 ## 🔭 I'm currently working on
-- A handmade jelwery online store: https://www.joanabossajewelry.com/
-- My portfolio: https://www.diana-spieser.com/
-- The portfolio of an HR consultant https://www.evgenia-manolova.com/
-- News website: https://www.ds-news.online/
+- Javacript - Node.js & React Bootcamp at Telerik Academy https://gitlab.com/dianaspieser
+- WordPress with Open Classrooms https://github.com/diana-spieser/Formation-WordPress-Openclassrooms
 ## 🌱 I'm currently learning
-- My focus now is to practice in Rails, CSS & JS by working on diverse presonal projects.
 - I'm lerning React & Javascript with Traversy media and I can say that Brad Traversy is just the best teacher! 
 ## 💼 Technical Skills
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&color=F7DF1E)
@@ -25,6 +22,12 @@ I'm a Junior Full-Stack Web Developer 💻
 ![](https://img.shields.io/badge/Code-HTML5-informational?style=flat&logo=HTML5&color=E34F26)
 ![](https://img.shields.io/badge/Code-PostgreSQL-informational?style=flat&logo=PostgreSQL&color=336791)
 ![](https://img.shields.io/badge/Code-SQLite-informational?style=flat&logo=SQLite&color=003B57)
+![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&color=777BB4)
+![](https://img.shields.io/badge/Code-WordPress-informational?style=flat&logo=WordPress&color=21759B)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&color=339933)
+![](https://img.shields.io/badge/Code-React-informational?style=flat&logo=React&color=61DAFB)
+
+
 </br>
 ![](https://img.shields.io/badge/Style-Bootstrap-informational?style=flat&logo=Bootstrap&color=7952B3)
 ![](https://img.shields.io/badge/Style-CSS3-informational?style=flat&logo=CSS3&color=1572B6)
